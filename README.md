@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Thomas Dias and I'm a 23 years old, from Brazil.<br><br>Olá 👋! Meu nome é Thomas Dias e tenho 21 anos e nasci no Brasil.</h2>
+<h2 align="left">Hi 👋! My name is Thomas Dias and I'm a 23 years old, from Brazil.<br><br>Olá 👋! Meu nome é Thomas Dias e tenho 23 anos e nasci no Brasil.</h2>
 
 ###
 
